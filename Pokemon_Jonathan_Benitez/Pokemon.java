@@ -1,5 +1,10 @@
 package cs112lectures;
+/*
+Your pokemon class looks good! 
 
+Hope class is going well for you!
+
+*/
 public class Pokemon {
   // Can only be accessed by the inherited class
   private String name;
